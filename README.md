@@ -15,5 +15,3 @@
 [linkedin]: https://www.linkedin.com/in/sergiy-antonyuk/
 
 ##### I can't express how much I have learned from [you](https://www.youtube.com/@javascriptmastery) ! <br> Thanks for the hard and smart work.
-
-![](demo.gif)
